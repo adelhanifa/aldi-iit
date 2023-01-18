@@ -20,7 +20,7 @@ When the user added any product, or increased or decreased the amount, the amoun
 
 ## libraries and frameworks:
   - react
-  - primereact
+  - Bootstrap
   - react-redux
   - HTML5
   - JavaScript
